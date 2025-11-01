@@ -1,10 +1,22 @@
 # JobFinderApp
 A Job and Internship Finder mobile app
-Overview
 
-The Job Finder App is a mobile application developed using Kotlin to help students and job seekers easily discover internships, part-time jobs, and full-time opportunities in their preferred fields. The app simplifies the process of connecting job seekers with employers through an intuitive and user-friendly interface.
+Project Overview  
+The Job Finder Mobile Application is designed to help users easily search, filter, and apply for job opportunities based on their skills, location, and preferences. It provides a convenient platform for both job seekers and employers to connect efficiently.
 
-Features
+Objectives
+
+* Simplify the process of finding and applying for jobs.  
+
+* Provide employers with a simple way to post job vacancies.  
+
+* Offer personalized job recommendations using user profile data.  
+
+* Enable secure communication between employers and applicants.  
+
+
+
+Key Features
 
 ✅ User Authentication – Sign up and log in securely using email and password.  
 
@@ -26,21 +38,25 @@ Features
 
 
 
-Tech Stack
+Technology Stack
 
-Frontend: Kotlin (Android Studio)
-Backend: Firebase Realtime Database / Firestore
-Authentication: Firebase Authentication
-Design Tools: Figma / XML Layout Design
-Version Control: Git & GitHub
+* *Frontend:* Android (Kotlin / Jetpack Compose)  
+
+* *Backend:* Firebase / Node.js (optional)  
+
+* *Database:* Firebase Firestore / Realtime Database  
+
+* *Version Control:* Git & GitHub  
+
+* *Tools:* Android Studio, GitHub Desktop, VS Code  
 
 
-Team Members
+Future Improvements
 
-GWU-HICT-2021-41
-GWU-HICT-2021-52
-GWU-HICT-2021-51
-GWU-HICT-2021-61
+Add AI-powered job recommendations
+Enable in-app chat between applicants and employers
+Multi-language support
+
 
 Project Timeline
 
@@ -48,11 +64,13 @@ Week 1–2    Research & Requirement Analysis
 Week 3–4	UI/UX Design (Figma Wireframes)	
 Week 5–7	App Development (Frontend + Backend Integration)	
 Week 8–9	Testing & Debugging	
-Week 10	Final Presentation & Submission	
+Week 11	    Final Presentation & Submission	
 
-Future Improvements
+Team Members
 
-Add AI-powered job recommendations
-Enable in-app chat between applicants and employers
-Multi-language support
+GWU-HICT-2021-41
+GWU-HICT-2021-52
+GWU-HICT-2021-50
+GWU-HICT-2021-61
+
 
