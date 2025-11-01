@@ -68,9 +68,13 @@ Week 11	    Final Presentation & Submission
 
 Team Members
 
-GWU-HICT-2021-41
-GWU-HICT-2021-52
-GWU-HICT-2021-50
-GWU-HICT-2021-61
+GWU-HICT-2021-41  
+
+GWU-HICT-2021-52  
+
+GWU-HICT-2021-50  
+
+GWU-HICT-2021-61  
+
 
 
