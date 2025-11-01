@@ -53,19 +53,27 @@ Technology Stack
 
 Future Improvements
 
-Add AI-powered job recommendations
-Enable in-app chat between applicants and employers
-Multi-language support
+Add AI-powered job recommendations 
+
+Enable in-app chat between applicants and employers  
+
+Multi-language support  
+
 
 
 Project Timeline
 
-Week 1–2    Research & Requirement Analysis
-Week 3–4	UI/UX Design (Figma Wireframes)	
-Week 5–7	App Development (Frontend + Backend Integration)	
-Week 8–9	Testing & Debugging	
-Week 11	    Final Presentation & Submission	
+Week 1–2    Research & Requirement Analysis  
 
+Week 3–4	UI/UX Design (Figma Wireframes)	  
+
+Week 5–7	App Development (Frontend + Backend Integration)  
+
+Week 8–9	Testing & Debugging	  
+
+Week 11	    Final Presentation & Submission  
+
+k
 Team Members
 
 GWU-HICT-2021-41  
@@ -75,6 +83,9 @@ GWU-HICT-2021-52
 GWU-HICT-2021-50  
 
 GWU-HICT-2021-61  
+
+
+
 
 
 
