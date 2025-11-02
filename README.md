@@ -71,23 +71,23 @@ The Job Finder Mobile Application is designed to help users easily search, filte
 🗓️Project Timeline  
 
 
-⏳Week 1 | Research & Requirement Gathering  
+  ⏳Week 1 | Research & Requirement Gathering  
 
-⏳Week 2 | Requirement Analysis & Planning  
+  ⏳Week 2 | Requirement Analysis & Planning  
 
-⏳Week 3 | UI/UX Design (Wireframes)   
+  ⏳Week 3 | UI/UX Design (Wireframes)   
 
-⏳Week 4 | UI Implementation (Frontend)   
+  ⏳Week 4 | UI Implementation (Frontend)   
 
-⏳Week 5 | Core App Development    
+  ⏳Week 5 | Core App Development    
 
-⏳Week 6 | Backend Integration & Features  
+  ⏳Week 6 | Backend Integration & Features  
 
-⏳Week 7 | Testing (Internal)  
+  ⏳Week 7 | Testing (Internal)  
 
-⏳Week 8 | Final Testing & Debugging  
+  ⏳Week 8 | Final Testing & Debugging  
 
-⏳Week 9 | Presentation & Submission  
+  ⏳Week 9 | Presentation & Submission  
 
 
 
