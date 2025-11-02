@@ -1,10 +1,10 @@
 # JobFinderApp
 A Job and Internship Finder mobile app
 
-Project Overview  
+📱Project Overview  
 The Job Finder Mobile Application is designed to help users easily search, filter, and apply for job opportunities based on their skills, location, and preferences. It provides a convenient platform for both job seekers and employers to connect efficiently.
 
-Objectives
+👇Objectives
 
 * Simplify the process of finding and applying for jobs.  
 
@@ -16,7 +16,7 @@ Objectives
 
 
 
-Key Features
+🚀Key Features
 
 ✅ User Authentication – Sign up and log in securely using email and password.  
 
@@ -41,7 +41,7 @@ Key Features
 
 
 
-Technology Stack
+🧩Technology Stack
 
 * *Frontend:* Android (Kotlin / Jetpack Compose)  
 
@@ -56,7 +56,7 @@ Technology Stack
 
 
 
-Future Improvements
+🚀Future Improvements
 
 * Add AI-powered job recommendations 
 
@@ -68,22 +68,32 @@ Future Improvements
 
 
 
-Project Timeline
-
-* Week 1–2    Research & Requirement Analysis  
-
-* Week 3–4	UI/UX Design (Figma Wireframes)	  
-
-* Week 5–7	App Development (Frontend + Backend Integration)  
-
-* Week 8–9	Testing & Debugging	  
-
-* Week 11	    Final Presentation & Submission  
+🗓️Project Timeline  
 
 
+⏳Week 1 | Research & Requirement Gathering  
+
+⏳Week 2 | Requirement Analysis & Planning  
+
+⏳Week 3 | UI/UX Design (Wireframes)   
+
+⏳Week 4 | UI Implementation (Frontend)   
+
+⏳Week 5 | Core App Development    
+
+⏳Week 6 | Backend Integration & Features  
+
+⏳Week 7 | Testing (Internal)  
+
+⏳Week 8 | Final Testing & Debugging  
+
+⏳Week 9 | Presentation & Submission  
 
 
-Team Members
+
+
+
+👥Team Members
 
 * GWU-HICT-2021-41  
 
